@@ -1,1 +1,18 @@
-[{"title":"titulo","body":"test"},{"title":"titulo2","body":"modificando el body"},{"title":"nota3","body":"este es un nuevo contenido de la nota 3"}]
+[
+    {
+        "title": "titulo",
+        "body": "test"
+    },
+    {
+        "title": "titulo2",
+        "body": "modificando el body"
+    },
+    {
+        "title": "nota3",
+        "body": "este es un nuevo contenido de la nota 3"
+    },
+    {
+        "title": "Nota nueva",
+        "body": "este es el cuerpo de la nota nueva"
+    }
+]
